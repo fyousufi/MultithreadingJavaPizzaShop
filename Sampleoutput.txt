@@ -1,0 +1,13 @@
+N:6 M:4
+The total number of customers is 1
+Chef makes a pizza. There are 1 pizzas left unsold.
+Chef makes a pizza. There are 2 pizzas left unsold.
+Chef makes a pizza. There are 3 pizzas left unsold.
+Chef makes a pizza. There are 4 pizzas left unsold.
+Pizza Plates are full Chef is waiting , pizzas on plates: 4
+Customer 1  gets a seat: currently there are 5 seats remaining
+Chef makes a pizza. There are 4 pizzas left unsold.
+Pizza Plates are full Chef is waiting , pizzas on plates: 4
+Customer 1 gets pizza 1 and is eating. 4 pizzas left unsold.
+Customer 1 finishes eating and leaves: currently there are 6 seats remaining
+All customers are done eating, exiting main thread
